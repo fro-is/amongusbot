@@ -1,5 +1,7 @@
 
 **Bot de Discord para o jogo Among Us utilizando a Realtime Database do Firebase.**
+https://discordapp.com/api/oauth2/authorize?client_id=756907436463620178&permissions=67648&scope=bot
+
 
 # !amongus win
 Utilize esse comando para registrar uma vitória mencionando em seguida os @ dos impostores. Após mencionar os impostores, digite o código do mapa da vitória, sendo: 
